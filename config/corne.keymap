@@ -34,6 +34,21 @@
             bindings = <&kp LC(C)>;
             key-positions = <25>;
         };
+
+        ctr+v {
+            bindings = <&kp LC(V)>;
+            key-positions = <26>;
+        };
+
+        ctr+b {
+            bindings = <&kp LC(B)>;
+            key-positions = <27>;
+        };
+
+        ctr++ {
+            bindings = <&kp LC(PLUS)>;
+            key-positions = <5>;
+        };
     };
 
     keymap {
