@@ -29,6 +29,11 @@
             bindings = <&kp LC(C)>;
             key-positions = <12>;
         };
+
+        ctr+c {
+            bindings = <&kp LC(C)>;
+            key-positions = <25>;
+        };
     };
 
     keymap {
