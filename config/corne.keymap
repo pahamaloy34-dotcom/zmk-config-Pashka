@@ -26,7 +26,7 @@
         compatible = "zmk,combos";
 
         ctr+z {
-            bindings = <&kp LC(C)>;
+            bindings = <&kp LC(Z)>;
             key-positions = <12>;
         };
 
