@@ -49,6 +49,16 @@
             bindings = <&kp LC(PLUS)>;
             key-positions = <5>;
         };
+
+        ctr+- {
+            bindings = <&kp LC(MINUS)>;
+            key-positions = <4>;
+        };
+
+        ctr+sht+f {
+            bindings = <&kp LC(LS(F))>;
+            key-positions = <0>;
+        };
     };
 
     keymap {
