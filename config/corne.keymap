@@ -56,8 +56,8 @@
         };
 
         ctr+sht+f {
-            bindings = <&kp LC(LS(F))>;
-            key-positions = <0>;
+            bindings = <&kp LC(F)>;
+            key-positions = <>;
         };
     };
 
