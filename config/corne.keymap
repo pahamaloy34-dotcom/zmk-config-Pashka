@@ -29,6 +29,11 @@
             bindings = <&kp LC(LS(F))>;
             key-positions = <0>;
         };
+
+        ctr+- {
+            bindings = <&kp LC(MINUS)>;
+            key-positions = <4>;
+        };
     };
 
     keymap {
