@@ -30,12 +30,12 @@
             key-positions = <0>;
         };
 
-        ctr+- {
+        ctr_plus_minus {
             bindings = <&kp LC(MINUS)>;
             key-positions = <4>;
         };
 
-        ctr++ {
+        ctr_plus_plus {
             bindings = <&kp LC(PLUS)>;
             key-positions = <5>;
         };
