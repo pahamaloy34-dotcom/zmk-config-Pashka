@@ -59,6 +59,11 @@
             bindings = <&kp LC(Z)>;
             key-positions = <12>;
         };
+
+        ctr+B {
+            bindings = <&kp LC(B)>;
+            key-positions = <18>;
+        };
     };
 
     keymap {
