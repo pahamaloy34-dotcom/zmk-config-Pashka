@@ -99,6 +99,11 @@
             bindings = <&kp LC(G)>;
             key-positions = <22>;
         };
+
+        ctr+sht+g {
+            bindings = <&kp LC(LS(G))>;
+            key-positions = <23>;
+        };
     };
 
     keymap {
