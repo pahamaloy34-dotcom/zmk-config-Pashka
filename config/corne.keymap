@@ -74,6 +74,11 @@
             bindings = <&kp LC(RS(B))>;
             key-positions = <6>;
         };
+
+        ctr+sht+f {
+            bindings = <&kp LC(LS(F))>;
+            key-positions = <30>;
+        };
     };
 
     keymap {
