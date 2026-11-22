@@ -95,11 +95,6 @@
             key-positions = <10>;
         };
 
-        ctr+g {
-            bindings = <&kp LC(G)>;
-            key-positions = <22>;
-        };
-
         ctr+sht+t {
             bindings = <&kp LC(LS(T))>;
             key-positions = <23>;
