@@ -89,6 +89,11 @@
             bindings = <&kp LC(PLUS)>;
             key-positions = <9>;
         };
+
+        ctr+z {
+            bindings = <&kp LC(Z)>;
+            key-positions = <10>;
+        };
     };
 
     keymap {
