@@ -90,7 +90,7 @@
             key-positions = <9>;
         };
 
-        ctr+z {
+        ctr-z {
             bindings = <&kp LC(Z)>;
             key-positions = <10>;
         };
