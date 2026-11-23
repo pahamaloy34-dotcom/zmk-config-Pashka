@@ -45,7 +45,7 @@
             key-positions = <27>;
         };
 
-        ctr+v {
+        combo_ctrl_v {
             bindings = <&kp LC(V)>;
             key-positions = <26>;
         };
