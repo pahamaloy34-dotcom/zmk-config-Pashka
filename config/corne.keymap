@@ -25,7 +25,7 @@
     combos {
         compatible = "zmk,combos";
 
-        ctr+sht+f {
+        combo_ctr_shift_f_0 {
             bindings = <&kp LC(LS(F))>;
             key-positions = <0>;
         };
