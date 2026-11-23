@@ -30,7 +30,7 @@
             key-positions = <0>;
         };
 
-        ctr_plus_minus {
+        combo_ctr_minus_0 {
             bindings = <&kp LC(MINUS)>;
             key-positions = <4>;
         };
