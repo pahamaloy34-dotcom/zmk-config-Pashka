@@ -75,7 +75,7 @@
             key-positions = <6>;
         };
 
-        ctr+sht-f {
+        ctr+sht_f {
             bindings = <&kp LC(LS(F))>;
             key-positions = <30>;
         };
