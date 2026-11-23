@@ -70,7 +70,7 @@
             key-positions = <24>;
         };
 
-        ctr+sht+b {
+        combo_ctrl_shift_b_1 {
             bindings = <&kp LC(RS(B))>;
             key-positions = <6>;
         };
