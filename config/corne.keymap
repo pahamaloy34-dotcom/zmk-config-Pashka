@@ -95,7 +95,7 @@
             key-positions = <10>;
         };
 
-        ctr+sht+t {
+        ctr_sht_t {
             bindings = <&kp LC(LS(T))>;
             key-positions = <23>;
         };
