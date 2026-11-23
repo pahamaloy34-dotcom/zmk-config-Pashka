@@ -80,7 +80,7 @@
             key-positions = <30>;
         };
 
-        ctr_- {
+        combo+ctrl_minus_1 {
             bindings = <&kp LC(MINUS)>;
             key-positions = <8>;
         };
