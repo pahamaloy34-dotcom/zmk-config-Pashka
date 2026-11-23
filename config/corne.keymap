@@ -85,7 +85,7 @@
             key-positions = <8>;
         };
 
-        ctr++ {
+        combo_ctrl_plus_1 {
             bindings = <&kp LC(PLUS)>;
             key-positions = <9>;
         };
