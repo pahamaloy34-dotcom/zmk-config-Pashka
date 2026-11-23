@@ -50,7 +50,7 @@
             key-positions = <26>;
         };
 
-        combo_ctrl_c {
+        combo_ctrl_c_0 {
             bindings = <&kp LC(C)>;
             key-positions = <25>;
         };
