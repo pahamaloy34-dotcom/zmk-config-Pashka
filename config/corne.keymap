@@ -138,10 +138,10 @@
             // "", '' на нижнем ряду — строки; : и ; на home row/нижнем ряду — типы TS, конец выражения
 
             bindings = <
-&kp TILDE  &kp K_MUTE  &kp AT    &kp HASH  &kp C_VOL_DN  &kp C_VOLUME_UP    &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR   &kp RPAR   &kp DEL
-&trans     &kp GRAVE   &kp LBRC  &kp RBRC  &kp LC(G)     &kp LC(LS(G))      &kp UNDER  &kp EQUAL  &kp LT     &kp GT     &kp COLON  &kp PIPE
-&trans     &trans      &kp BSLH  &kp DQT   &kp SQT       &kp DELETE         &kp FSLH   &kp QMARK  &kp PLUS   &kp MINUS  &kp SEMI   &kp TILDE
-                                 &kp LGUI  &trans        &kp SPACE          &kp RET    &mo 3      &kp DEL
+&kp TILDE  &kp K_MUTE  &kp AT    &kp HASH  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP    &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR   &kp RPAR   &kp DEL
+&trans     &kp GRAVE   &kp LBRC  &kp RBRC  &kp LC(G)          &kp LC(LS(G))      &kp UNDER  &kp EQUAL  &kp LT     &kp GT     &kp COLON  &kp PIPE
+&trans     &trans      &kp BSLH  &kp DQT   &kp SQT            &kp DELETE         &kp FSLH   &kp QMARK  &kp PLUS   &kp MINUS  &kp SEMI   &kp TILDE
+                                 &kp LGUI  &trans             &kp SPACE          &kp RET    &mo 3      &kp DEL
             >;
         };
 
