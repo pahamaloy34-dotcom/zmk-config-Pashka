@@ -75,7 +75,7 @@
             key-positions = <6>;
         };
 
-        ctr+sht_f {
+        combo_ctrl_shift_f_1 {
             bindings = <&kp LC(LS(F))>;
             key-positions = <30>;
         };
