@@ -60,7 +60,7 @@
             key-positions = <12>;
         };
 
-        ctr_b {
+        combo_ctrl_b_1 {
             bindings = <&kp LC(B)>;
             key-positions = <18>;
         };
