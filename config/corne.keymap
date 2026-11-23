@@ -55,7 +55,7 @@
             key-positions = <25>;
         };
 
-        ctr+z {
+        combo_ctrl_z_0 {
             bindings = <&kp LC(Z)>;
             key-positions = <12>;
         };
