@@ -35,7 +35,7 @@
             key-positions = <4>;
         };
 
-        ctr_plus_plus {
+        combo_ctrl_plus_0 {
             bindings = <&kp LC(PLUS)>;
             key-positions = <5>;
         };
