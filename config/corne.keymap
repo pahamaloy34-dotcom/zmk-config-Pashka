@@ -40,7 +40,7 @@
             key-positions = <5>;
         };
 
-        ctr+b {
+        combo_ctrl_b_0 {
             bindings = <&kp LC(B)>;
             key-positions = <27>;
         };
